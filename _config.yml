@@ -8,13 +8,13 @@ description: Jadon Hansell\'s Personal Website
 username: Jadon Hansell
 user_description: This is my description
 user_title: Software Developer
-email: Alcamore@gmail.com
+email: JadonHansell@gmail.com
 twitter_username: Alcamore
 github_username:  Alcamore
 gplus_username:  null
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "G-CJ9CC00N91"
 
 exclude: ['package.json', 'src' , 'node_modules']
